@@ -54,12 +54,12 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Pradip Khadka",
-        "meta_descr": "I am Pradip Khadka, a young and enthusiastic individual with a deep passion for music and reading books. Whether it’s diving into the rhythm of melodies or exploring the pages of a compelling story, I find joy in discovering new perspectives and experiences. Always eager to learn and grow, I strive to balance creativity and curiosity in everything I do. Music Lover\nBook Lover\nNature Lover\nHelping Other\nLonelyness",
+        "title": "Er Ashok Kunwar",
+        "meta_descr": "I am Ashok Kunwar, a young and enthusiastic individual with a deep passion for music and reading books. Whether it’s diving into the rhythm of melodies or exploring the pages of a compelling story, I find joy in discovering new perspectives and experiences. Always eager to learn and grow, I strive to balance creativity and curiosity in everything I do. Music Lover\nBook Lover\nNature Lover\nHelping Other\nLonelyness",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/pradip1.jpg"
+        "meta_image": "@PROJECT_PATH@/assets/images/ashok-kunwar1-679x824.jpg"
       },
       "components": [
         {
